@@ -1,6 +1,6 @@
 # Hello there!
 
-This is my personal repo where I'll be uploading all my working projects to show you.
+This is my personal repo where I'll be uploading all my projects to show you.
 
 # Work in progress
 
