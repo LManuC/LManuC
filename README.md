@@ -1,6 +1,8 @@
-Hello there!
+#Hello there!
 
 This is my personal repo where I'll be uploading all my working projects to show you.
+
+##Work in progress
 
 Nowadays I'm working with a 3D Printer manager for schedulling *.gcode file around all over the farm,
 projects, stocks, clients, printers working, broken or waiting to start a new job. 
